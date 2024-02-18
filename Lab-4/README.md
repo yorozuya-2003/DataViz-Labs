@@ -1,6 +1,6 @@
 # Lab-4: Assignment Aesthetics
 
-This section involved  visualizing sales data to understand monthly changes in product sales, state-wise revenue distribution, and the distribution of customers and sellers across cities within states.
+This section involved visualizing sales data to understand monthly changes in product sales, state-wise revenue distribution, and the distribution of customers and sellers across cities within states.
 
 ## Task 1: Monthly Changes in Product Sales
 This included generating a visualization showing monthly changes in sales for products with over 50 entries in the order item database.  
